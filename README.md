@@ -4,7 +4,6 @@ repo testowe
 - dwa
 - trzy
 
-  1. af
-  2. dfhghdfg
-  3. gfdgds
-  3. gsdgsfd
+1. af
+2. dfhghdfg
+3. gfdgds
